@@ -9,7 +9,7 @@ This project is simply to demonstrate the creation of ERC20 token and using 3 fu
 
 ### Installing
 
-* git clone https://github.com/sogobanwo/ERC20-Mint-transfer-and-burn-.git
+* git clone https://github.com/Boluchel/ERC20-Mint-Transfer-Burn.git
 * npm install
 
 ### Executing program
