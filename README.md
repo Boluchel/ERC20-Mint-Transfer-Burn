@@ -14,7 +14,6 @@ This project is simply to demonstrate the creation of ERC20 token and using 3 fu
 
 ### Executing program
 
-* 
 * Step-by-step bullets
 ```
 npx hardhat compile
